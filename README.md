@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Airbnb-clone
+![airbnb](https://i.ibb.co/q9VVCcT/airbnb.png)
+Check out the live version [here](https://airbnb-clone-ea59d.web.app/)
 
 ## Available Scripts
 
