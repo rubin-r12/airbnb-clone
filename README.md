@@ -1,6 +1,6 @@
 # Airbnb-clone
 ![airbnb](https://i.ibb.co/pQP33QD/airbnb-1.png)
-Check out the live version [here](https://airbnb-clone-ea59d.web.app/)
+Check out the live version [here](https://airbnb-clone-ea59d.web.app/) .
 
 ## Available Scripts
 
